@@ -3,7 +3,11 @@
 </p>
 
 <h1>Setting up an Active Directory in the Cloud with Virtual Machines (Azure)</h1>
-This tutorial covers how to set up a Active Directory inside a Virtual Machine using Azure.<br />
+
+This is a Tutorial that will walk you through setting up an Active Directory with Admins and Users in Azure. In this tutorial we will be using an Azure subscription so we can make two Virtual Machines,on as a Domain Controller and the other being a Client PC. These PCs will be using Windows 10 as well as Windows Server System. We will also be using the Remote Desktop application to connect the the Virtual Machines and access their settings. 
+
+
+<br />
 
 
 
